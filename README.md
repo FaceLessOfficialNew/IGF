@@ -9,4 +9,5 @@ git clone https://github.com/FaceLessOfficialNew/IGF
 cd IGF
 python IGF.py 
 
-Enjoy....
+Enjoy.....
+ 
